@@ -78,13 +78,4 @@
 
 ---
 
-### 🚀 Fun Projects & Contributions
-
-- 🛍️ **Gold Shop Web App** - Inventory & Sales Management
-- 📊 **AI-based Sales Analysis System**
-- 📚 **Summarize Team** - Helping Students in Computer Science
-- 🌎 **Al-Rehab for Wood Trading System**
-
----
-
 🔥 Let's Connect & Build Something Amazing Together!
